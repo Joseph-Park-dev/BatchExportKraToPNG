@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=BatchExportKraToPNG
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Batch Export .kra to .png
+Comment=Exports .kra files in the folder into .png
