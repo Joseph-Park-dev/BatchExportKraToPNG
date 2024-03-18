@@ -16,3 +16,10 @@ You can find the script under ``Tools > Scripts > Batch Save Folder to .png``.
 Browse the source folder, where you keep the .kra files to export,
 and the destinatoin folder, where you will store the exported .png files.
 Click the save button to start the process.
+
+## Plugin's life
+### 2024.03.07
+Basic plugin with src_folder, dest_folder path button was made & uploaded to forum, gitHub.
+
+### 2024.03.19
+Improved plugin with better UI, enabling modification of .png export parameters.
